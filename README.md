@@ -3,12 +3,10 @@
 ##
 🔎 Project Overview
 
-This project presents an Amazon Sales Analysis Report built using Power BI.
+This project presents an Sales Analysis Report built using Power BI.
 The dashboard provides interactive insights into sales performance across multiple dimensions such as region, segment, state, and time. It is designed to help stakeholders quickly identify trends, profit drivers, and opportunities for improvement.
 
 📂 Dataset
-
-Source: Amazon Sales dataset (sample/synthetic data for analysis purposes)
 
 Records Included: Sales transactions with fields such as sales, profit, discount, quantity, region, segment, and state
 
