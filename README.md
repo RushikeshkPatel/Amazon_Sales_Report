@@ -47,9 +47,6 @@ The dashboard provides interactive insights into sales performance across multip
 
 ---
 
-## 📸 Dashboard Preview  
-![Amazon Sales Dashboard](![pic](images1.jpg))  
-*(Replace `dashboard.png` with your uploaded image file name in the repo)*  
-
+## 📸 Dashboard Preview 
 
 ![pic](images1.jpg)
