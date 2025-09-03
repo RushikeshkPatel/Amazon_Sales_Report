@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Analysis Dashboard (Power BI
+# 📊 Amazon Sales Analysis Dashboard (Power BI)
 
 ## 🔎 Project Overview  
 This project presents an **Amazon Sales Analysis Report** built using **Power BI**.  
